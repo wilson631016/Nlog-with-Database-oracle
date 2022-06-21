@@ -1,8 +1,8 @@
 # Nlog-with-Database
+Practice logging messages to the database using NLog.
+In this example, Framework: NetCore 3.1, the database is Oracle.
 
-to practice:
-  using NLog to log mesage to the database.
-  In this example, Framework:.NetCore 3.1 and databse is Oracle.
+
 PackageReference:
     "NLog" Version="5.0.1" 
     "NLog.Config" Version="4.7.15"
